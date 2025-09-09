@@ -11,5 +11,6 @@ public class Start {
         Uczen uczen3 = new Uczen("Szatyn","Senpai");
         System.out.println(uczen3);
         System.out.println(Uczen.getLiczbaUczniow());
+
     }
 }
